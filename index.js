@@ -25,7 +25,7 @@ const users = [
     ime: "ime",
     prezime: "prezime",
   },
-  { id: 1, ime: "ime", prezime: "prezime" },
+  { id: 1, ime: "ime", prezime: "prezime1" },
   { id: 1, ime: "ime", prezime: "prezime" },
 ];
 
